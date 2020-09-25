@@ -1,0 +1,42 @@
+BEGIN:VCARD
+VERSION:3.0
+
+FN;CHARSET=UTF-8:Niklas Buhl
+N;CHARSET=UTF-8:Buhl;Niklas;;;
+GENDER:M
+
+ORG;CHARSET=UTF-8:Freelancer
+TITLE;CHARSET=UTF-8:Design Engineer\, IT & Embedded Developer\, New Media Artist & Tech Activist
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hello@niklasbuhl.com
+
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Vesterhavsgade 13;Nørre Vorupør;Thy;7700;Denmark
+
+item1.URL;type=pref;CHARSET=UTF-8:https\://niklasbuhl.com/
+item1.X-ABLabel:website
+
+item2.URL;CHARSET=UTF-8:https\://www.linkedin.com/in/niklasbuhl
+item2.X-ABLabel:linkedIn
+
+item3.URL;CHARSET=UTF-8:https\://twitter.com/niklasbuhl
+item3.X-ABLabel:twitter
+
+item4.URL;CHARSET=UTF-8:https\://t.me/niklasbuhl
+item4.X-ABLabel;CHARSET=UTF-8:telegram
+
+item5.URL;CHARSET=UTF-8:https\://keybase.io/niklasbuhl
+item5.X-ABLabel;CHARSET=UTF-8:keybase
+
+item6.URL;CHARSET=UTF-8:https\://github.com/niklasbuhl
+item6.X-ABLabel;CHARSET=UTF-8:github
+
+item7.URL;CHARSET=UTF-8:https\://instagram.com/niklasbuhl.xyz
+item7.X-ABLabel;CHARSET=UTF-8:instagram
+
+item8.URL;CHARSET=UTF-8:https\://www.couchsurfing.com/people/niklasbuhl
+item8.X-ABLabel;CHARSET=UTF-8:couchsurfing
+
+NOTE: Niklas is a digital nomad. Travelling around...\n B.Eng IT-Electronics
+
+REV:2019-08-26T17:58:42.439Z
+END:VCARD
