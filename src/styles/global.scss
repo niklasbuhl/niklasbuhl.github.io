@@ -1,0 +1,13 @@
+main, section, article, footer, header, nav, div {
+  // display: flex;
+}
+
+// Gatsby and Web
+html, body, #gatsby-focus-wrapper, #___gatsby {
+  width: 100%;
+  min-width: 100%;
+
+  // min-height: calc(100vh - var(--topNavBarHeight));
+  min-height: calc(100vh - var(--topNavBarHeight) - var(--topFooterHeight));
+  // min-height: 100%;
+}
