@@ -86,6 +86,7 @@ class IndexPage extends Component {
           <code>This site is under construction.</code>
           <code>I am teaching myself React,</code>
           <code>and therefore testing things...</code>
+          <code>Testing git things!</code>
 
         </PageArticle>
 
