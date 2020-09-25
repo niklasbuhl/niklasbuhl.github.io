@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 import styled from "styled-components"
 import styles from "../../styles/styles"
 
@@ -45,6 +45,7 @@ class WebPage extends Component {
 
     // console.log("Update scroll to: " + styles.variables.heroHeaderHeight)
     window.scrollTo(0, styles.variables.heroHeaderHeight)
+    // window.scrollTo(0, styles.variables.heroHeaderHeight)
 
   }
 

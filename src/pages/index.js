@@ -17,14 +17,14 @@ const FrontH1 = styled.h1`
     background: black;
   }
 
-  @media (max-width: ${styles.breakpoints.desktop + "px"}) {
+  @media (max-width: var(--desktopBreakpoint)) {
     /* font-size: 6vw; */
     font-size: min(47px, 5.6vw);
     letter-spacing: -0.1vw;
 
   }
 
-  /* @media (max-width: ${styles.breakpoints.mobile + "px"}) {
+  /* @media (max-width: var(--mobileBreakpoint)) {
     font-size: 24px;
     letter-spacing: -1.4px;
   } */

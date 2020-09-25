@@ -1,7 +1,8 @@
-import React, {Component} from "react"
-import { Link } from "gatsby"
+import React from "react"
+// import React, {Component} from "react"
+// import { Link } from "gatsby"
 import styled from "styled-components"
-import styles from "../../styles/styles"
+// import styles from "../../styles/styles"
 
 const Wrap = styled.div`
   font-size: 16px;

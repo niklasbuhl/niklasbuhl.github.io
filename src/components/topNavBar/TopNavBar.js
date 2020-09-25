@@ -124,6 +124,8 @@ class TopNavBar extends Component {
 
   render() {
 
+    // console.log("Tablet: " + styles.breakpoints.tablet)
+
     if (this.props.ww > styles.breakpoints.tablet && this.state.menuOpen === true) this.setState({menuOpen: false})
 
     return(

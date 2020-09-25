@@ -1,73 +1,52 @@
 import styled, { css } from 'styled-components'
 
 import "./reset.scss"
+import "./root.scss" // Variables
 import "./global.scss"
 import "./fonts.scss"
-
-// Gutter
-var gutter = 16
-
-// Variables
-var maxPageContentWidth = 1024
-var topNavBarHeight = 48
-var topFooterHeight = 32
-var heroHeaderHeight = 240
-var bottomFooterHeight = 240
-var maxContentWidth = (maxPageContentWidth - (gutter * 2))
-
-var variables = {
-  maxPageContentWidth: maxPageContentWidth,
-  maxContentWidth: maxContentWidth,
-  heroHeaderHeight: heroHeaderHeight,
-  topNavBarHeight: topNavBarHeight,
-  topFooterHeight: topFooterHeight,
-  bottomFooterHeight: bottomFooterHeight,
-}
 
 // Breakpoints
 var breakpoints = {
   // mobile: 320,
   mobile: 414,
   tablet: 720,
-  desktop: maxPageContentWidth,
+  desktop: 1024,
 }
 
-// const module = typeof document !== `undefined` ? require("module") : null
+var variables = {}
 
 // Globals
 function SetCSSGlobals() {
-  document.documentElement.style.setProperty("--gutter", gutter + "px")
-  document.documentElement.style.setProperty("--halfGutter", (gutter / 2) + "px")
-  document.documentElement.style.setProperty("--maxPageContentWidth", maxPageContentWidth + "px")
-  document.documentElement.style.setProperty("--maxContentWidth", maxContentWidth + "px")
-  document.documentElement.style.setProperty("--topNavBarHeight", topNavBarHeight + "px")
-  document.documentElement.style.setProperty("--topFooterHeight", topFooterHeight + "px")
-  document.documentElement.style.setProperty("--heroHeaderHeight", heroHeaderHeight + "px")
-  document.documentElement.style.setProperty("--bottomFooterHeight", bottomFooterHeight + "px")
-  document.documentElement.style.setProperty("--mobileBreakpoint", breakpoints.mobile + "px")
-  document.documentElement.style.setProperty("--tabletBreakpoint", breakpoints.tablet + "px")
-  // console.log("Global CSS Variables set")
+
+  variables.gutter = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--gutter').slice(0, -2))
+  variables.maxPageContentWidth = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--maxPageContentWidth').slice(0, -2))
+  variables.maxContentWidth = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--maxContentWidth').slice(0, -2))
+  variables.heroHeaderHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--heroHeaderHeight').slice(0, -2))
+  variables.topNavBarHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--topNavBarHeight').slice(0, -2))
+  variables.topFooterHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--topFooterHeight').slice(0, -2))
+  variables.bottomFooterHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--bottomFooterHeight').slice(0, -2))
+
 }
 
 // Responsiveness
 
 // 0px - 320px
 const hideOnMobile = css`
-  @media (max-width: ${breakpoints.mobile + "px"}) {
+  @media (max-width: calc(${breakpoints.mobile} * 1px)) {
     display: none;
   }
 `
 
 // 321px - 720px
 const hideOnTablet = css`
-  @media (min-width: calc(${breakpoints.mobile + "px"} + 1px)) and (max-width: ${breakpoints.tablet + "px"}) {
+  @media (min-width: calc(${breakpoints.mobile} * 1px + 1px)) and (max-width: calc(${breakpoints.tablet}  * 1px)) {
     display: none;
   }
 `
 
 // 721px - ?
 const hideOnDesktop = css`
-  @media (min-width: calc(${breakpoints.tablet + "px"} + 1px)) {
+  @media (min-width: calc(${breakpoints.tablet} * 1px + 1px)) {
     display: none;
   }
 `
@@ -78,7 +57,6 @@ const displayOnDesktop = css`
 `
 const displayOnTabletDesktop = css`
   ${hideOnMobile}
-
 `
 const displayOnTablet = css`
   ${hideOnMobile}
@@ -86,6 +64,7 @@ const displayOnTablet = css`
 `
 
 const displayOnMobileTablet = css`
+  // background: green;
   ${hideOnDesktop}
 `
 
@@ -94,14 +73,10 @@ const displayOnMobile = css`
   ${hideOnDesktop}
 `
 
-// console.log("Display On Mobile and Tablet")
-// console.log(displayOnMobileTablet)
-
 // Positioning
 const centerRow = css`
   display: flex;
   flex-direction: row;
-  // justify-content: space-around;
   justify-content: center;
 `
 
@@ -148,8 +123,6 @@ const rightCenterRow = css`
 // Page Height
 const fullPageHeight = css`
   min-height: calc(100vh - var(--topNavBarHeight) - var(--topFooterHeight));
-  // min-height: calc(100vh - var(--topFooterHeight));
-  // min-height: 100vh;
 `
 
 const contentPageWidth = css`
@@ -184,7 +157,7 @@ export default {
 
   fullPageHeight: fullPageHeight,
 
-  gutter: gutter,
+  // gutter: variables.gutter,
 
   // Positioning
   centerCenter: centerCenter,

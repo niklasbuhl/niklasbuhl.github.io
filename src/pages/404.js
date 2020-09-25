@@ -1,6 +1,6 @@
 import React, { Component } from "react"
-import styled from "styled-components"
-import styles from "../styles/styles"
+// import styled from "styled-components"
+// import styles from "../styles/styles"
 
 import WebPage from "../components/webPage/WebPage"
 import PageArticle from "../components/pageArticle/PageArticle"

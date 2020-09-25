@@ -1,5 +1,5 @@
 import React, {Component} from "react"
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 import Emoji from '../emoji/Emoji'
 import styled from "styled-components"
 import styles from "../../styles/styles"
