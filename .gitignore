@@ -1,2 +1,8 @@
 # Ignore the node_modules directory
 node_modules
+
+# Not sure about this one...
+.cache
+
+# Dublicate
+public
