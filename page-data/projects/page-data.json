@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-projects-js","path":"/projects/","result":{"pageContext":{}}}
+{"componentChunkName":"component---src-pages-projects-js","path":"/projects/","result":{"data":{"allMdx":{"nodes":[{"id":"21c7bea0-d3e2-5e8a-82d0-9e749e458496","frontmatter":{"title":"Project A"},"fields":{"slug":"/projects/project-a/"}},{"id":"f4f94fa6-10c2-55b1-ab8b-a29ad4a2ecce","frontmatter":{"title":"Project B"},"fields":{"slug":"/projects/project-b/"}}]}},"pageContext":{}},"staticQueryHashes":[]}
