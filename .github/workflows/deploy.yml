@@ -1,0 +1,15 @@
+name: Publish Personal Site
+
+on:
+  push:
+    branches: [dev]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: enriikke/gatsby-gh-pages-actions@v2.1.1
+        with:
+          access-token: ${{ secrets.DEPLOY_PERSONAL_SITE }}
+          deploy-branch: publish
