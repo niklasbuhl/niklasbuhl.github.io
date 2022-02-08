@@ -1,6 +1,7 @@
 # Visual Studio Code
 .vscode
-zrchice
+zrchice/
+todo/
 
 # Logs
 logs
