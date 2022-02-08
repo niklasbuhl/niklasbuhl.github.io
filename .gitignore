@@ -1,8 +1,3 @@
-# Visual Studio Code
-.vscode/
-zrchive/
-todo/
-
 # Logs
 logs
 *.log
@@ -72,3 +67,6 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# Folder in root
+.vscode/
