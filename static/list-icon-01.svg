@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3.92 5.88">
+  <defs>
+    <style>
+      .list-icon-01-1 { 
+        fill:#4920f5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="icons">
+      <rect class="list-icon-01-1" width="1.96" height="1.96" />
+      <rect class="list-icon-01-1" x="1.96" y="1.96" width="1.96" height="1.96" />
+      <rect class="list-icon-01-1" y="3.92" width="1.96" height="1.96" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.9 15.9">
+  <defs>
+    <style>
+
+        .close-infobox {
+          fill: none;
+          stroke: #4920f5;
+          stroke-miterlimit: 10;
+          stroke-width: 2px;
+        }
+
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="close-icon">
+      <line class="close-infobox" x1="0.71" y1="0.71" x2="15.19" y2="15.19" />
+      <line class="close-infobox" x1="15.19" y1="0.71" x2="0.71" y2="15.19" />
+    </g>
+  </g>
+</svg>

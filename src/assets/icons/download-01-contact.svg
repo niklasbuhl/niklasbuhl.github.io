@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.73 10.84">
+  <defs>
+    <style>
+      .contact-page-download-icon-1, .contact-page-download-icon-2{
+        fill:none;
+        stroke:var(--gray);
+        stroke-miterlimit:10;
+        stroke-width:1.98px;
+      }
+      
+      .contact-page-download-icon-1{
+        stroke-linecap:square;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="icons">
+      <line class="contact-page-download-icon-1" x1="9.74" y1="9.85" x2="0.99" y2="9.85" />
+      <line class="contact-page-download-icon-2" x1="5.37" x2="5.37" y2="5.5" />
+      <line class="contact-page-download-icon-1" x1="5.37" y1="5.5" x2="7.97" y2="2.9" />
+      <line class="contact-page-download-icon-1" x1="5.37" y1="5.5" x2="2.76" y2="2.9" />
+      <line class="contact-page-download-icon-1" x1="0.99" y1="7.88" x2="0.99" y2="9.85" />
+      <line class="contact-page-download-icon-1" x1="9.74" y1="7.88" x2="9.74" y2="9.85" />
+    </g>
+  </g>
+</svg>

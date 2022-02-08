@@ -1,0 +1,13 @@
+:root {
+  --gutter: 16px;
+  --halfGutter: calc(var(--gutter) / 2);
+  --maxPageWidth: 960px;
+  --maxContentWidth: calc(var(--maxPageContentWidth) - (var(--gutter) * 2));
+  --topNavBarHeight: 48px;
+  --topFooterHeight: 32px;
+  --heroHeaderHeight: 240px;
+  --bottomFooterHeight: 240px;
+  --contentMargin: 96px;
+  --mouseX: 0;
+  --mouseY: 0;
+}

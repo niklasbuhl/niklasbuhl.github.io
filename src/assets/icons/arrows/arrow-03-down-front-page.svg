@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.8 11.76">
+  <defs>
+    <style>.arrow-03-down-front-page-1{fill:#4920f5;}.arrow-03-down-front-page-2{fill:none;stroke:#4920f5;stroke-linecap:square;stroke-miterlimit:10;stroke-width:1.96px;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="icons">
+      <rect class="arrow-03-down-front-page-1" x="5.88" y="7.84" width="1.96" height="1.96" transform="translate(15.68 1.96) rotate(90)" />
+      <rect class="arrow-03-down-front-page-1" x="3.92" y="9.8" width="1.96" height="1.96" transform="translate(15.68 5.88) rotate(90)" />
+      <rect class="arrow-03-down-front-page-1" x="1.96" y="7.84" width="1.96" height="1.96" transform="translate(11.76 5.88) rotate(90)" />
+      <rect class="arrow-03-down-front-page-1" x="7.84" y="5.88" width="1.96" height="1.96" transform="translate(15.68 -1.96) rotate(90)" />
+      <rect class="arrow-03-down-front-page-1" y="5.88" width="1.96" height="1.96" transform="translate(7.84 5.88) rotate(90)" />
+      <line class="arrow-03-down-front-page-2" x1="4.9" y1="6.86" x2="4.9" y2="0.98" />
+    </g>
+  </g>
+</svg>

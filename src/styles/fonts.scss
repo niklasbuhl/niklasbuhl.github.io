@@ -1,0 +1,122 @@
+// Inter
+@import url("https://rsms.me/inter/inter.css");
+
+// Charter
+@import url("https://brick.freetls.fastly.net/Charter:400,700,400i,700i");
+
+// Hack
+@import url("https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack-subset.css");
+
+// Fira Sans
+@import url("https://code.cdn.mozilla.net/fonts/fira.css");
+
+// ComputerFont 1
+// @font-face {
+//   font-family: "Computerfont";
+//   src: url("//db.onlinewebfonts.com/t/b13de388ec26dd44b8b903b725723771.eot");
+//   src: url("//db.onlinewebfonts.com/t/b13de388ec26dd44b8b903b725723771.eot?#iefix")
+//       format("embedded-opentype"),
+//     url("//db.onlinewebfonts.com/t/b13de388ec26dd44b8b903b725723771.woff2")
+//       format("woff2"),
+//     url("//db.onlinewebfonts.com/t/b13de388ec26dd44b8b903b725723771.woff")
+//       format("woff"),
+//     url("//db.onlinewebfonts.com/t/b13de388ec26dd44b8b903b725723771.ttf")
+//       format("truetype"),
+//     url("//db.onlinewebfonts.com/t/b13de388ec26dd44b8b903b725723771.svg#Computerfont")
+//       format("svg");
+// }
+
+// Computerfont 2
+@font-face {
+  font-family: "Computerfont";
+  src: local(
+    "Computerfont",
+    url(../fonts/Computerfont.ttf),
+    format("truetype")
+  );
+}
+
+// Heading
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  // font-family: 'Helvetica';
+  font-family: "Inter", sans-serif;
+  letter-spacing: -1px;
+  margin: 8px;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 32px;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+// Paragraph Serif
+p {
+  font-family: "Charter", serif;
+  font-size: 14px;
+  margin: 8px;
+}
+
+.display {
+  font-family: "Inter", sans-serif;
+}
+
+.code {
+  font-family: "Hack", monospace;
+}
+
+.serif {
+  font-family: "Charter", serif;
+}
+
+.sans {
+  font-family: "Fira Sans", sans-serif;
+}
+
+// Styles
+strong {
+  font-weight: bold;
+}
+
+// Code
+pre,
+code {
+  font-size: 14px;
+  font-family: "Hack", monospace;
+  // margin: 8px;
+}
+
+.codeSnip {
+  // padding-left: 2px;
+  // padding-right: 2px;
+  padding: 4px;
+  background: rgba(200, 200, 200, 0.2);
+  width: max-content;
+}
+
+// a {
+//   &:active {
+//     color: var(--neon-green);
+//   }
+// }

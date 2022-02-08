@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.18 15.18">
+  <defs>
+    <style>
+      
+      .info-icon-1 { 
+        fill:none;
+        stroke:#4920f5;
+        stroke-miterlimit:10;
+        stroke-width:1.4px;
+      }
+      
+      .info-icon-2 {
+        fill:#4920f5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="icons">
+      <polyline class="info-icon-1" points="6.15 0.98 3.84 0.98 3.84 11.35 0.69 14.49 3.84 11.35 14.2 11.35 14.2 9.03" />
+      <line class="info-icon-1" x1="9.02" y1="3.5" x2="9.02" y2="8.96" />
+      <path class="info-icon-2" d="M9,0a1,1,0,1,0,1,1A1,1,0,0,0,9,0Z" />
+    </g>
+  </g>
+</svg>

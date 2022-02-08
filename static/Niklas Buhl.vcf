@@ -1,0 +1,41 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Niklas Buhl
+N;CHARSET=UTF-8:Buhl;Niklas;;;
+GENDER:M
+
+TITLE;CHARSET=UTF-8: Fullstack Developer
+
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:hello@niklasbuhl.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:niklas.buhl-cic@ibm.com
+
+TEL;TYPE=WORK,VOICE:+45 41 20 14 38 
+
+ADR;CHARSET=UTF-8;TYPE=HOME:;;;Copenhagen;;;Denmark
+ADR;CHARSET=UTF-8;TYPE=IBM CIC:;;;Njalsgade 76 ;Copenhagen S;;2300;Denmark
+ADR;CHARSET=UTF-8;TYPE=Silicon VØ:;;;Vesterhavsgade 13;Nørre Vorupør;Thy;7700;Denmark
+
+ORG;CHARSET=UTF-8:IBM Client Innovation Center
+
+URL;type=WORK;CHARSET=UTF-8:
+
+item1.URL;CHARSET=UTF-8:https\://niklasbuhl.com/
+item1.X-ABLabel;CHARSET=UTF-8:Personal Website
+
+item2.URL;CHARSET=UTF-8:https\://www.ibm.com/employment/ciceurope/dk-da/pages/about-us/
+item2.X-ABLabel;CHARSET=UTF-8:IBM CIC
+
+item3.URL;CHARSET=UTF-8:https\://www.linkedin.com/in/niklasbuhl/
+item3.X-ABLabel;CHARSET=UTF-8:LinkedIn
+
+item4.URL;CHARSET=UTF-8:https\://github.com/niklasbuhl/
+item4.X-ABLabel;CHARSET=UTF-8:GitHub
+
+item5.URL;CHARSET=UTF-8:https\://instagram.com/niklasbuhl.xyz/
+item5.X-ABLabel;CHARSET=UTF-8:Instagram 
+
+NOTE: Design Engineer\, IT & Embedded Developer\, New Media Artist & Tech Literacy Activist
+
+REV:2021-12-20T12:39:39.615Z
+
+END:VCARD

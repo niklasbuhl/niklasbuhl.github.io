@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.71 15.85">
+  <defs>
+    <style>.open-mail-01-front-page-1,.open-mail-01-front-page-2{fill:none;stroke:#4920f5;stroke-miterlimit:10;stroke-width:1.6px;}.open-mail-01-front-page-2{stroke-linecap:square;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="icons">
+      <line class="open-mail-01-front-page-1" x1="4.6" y1="6.11" x2="9.73" y2="0.98" />
+      <line class="open-mail-01-front-page-2" x1="9.73" y1="0.98" x2="6.05" y2="0.98" />
+      <line class="open-mail-01-front-page-2" x1="9.73" y1="0.98" x2="9.73" y2="4.66" />
+      <polyline class="open-mail-01-front-page-2" points="9.73 9.81 7.67 9.81 3.99 13.48 3.99 9.81 3.99 9.77 0.98 9.77 0.98 1.02" />
+    </g>
+  </g>
+</svg>

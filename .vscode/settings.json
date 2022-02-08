@@ -1,5 +1,32 @@
 {
   "cSpell.words": [
-    "frontmatter"
-  ]
+    "Cybernauterne",
+    "Formik",
+    "frontmatter",
+    "Idemo",
+    "Kintsugi",
+    "shortcodes",
+    "topnav",
+    "workwithme"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#98f5c2",
+    "activityBar.activeBorder": "#ba8bf4",
+    "activityBar.background": "#98f5c2",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#ba8bf4",
+    "activityBarBadge.foreground": "#15202b",
+    "sash.hoverBorder": "#98f5c2",
+    "statusBar.background": "#69f1a7",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#3aed8c",
+    "statusBarItem.remoteBackground": "#69f1a7",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#69f1a7",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#69f1a799",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#69f1a7"
 }
