@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-niklasbuhl-index-mdx",
+    "path": "/niklasbuhl/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":true,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["website","startup"],"status":["active"],"title":"niklasbuhl.com","subtitle":"Static React website","description":"","years":["2022"],"institutions":["nb"],"location":"cph","keywords":{"topics":["portfolio"],"tools":["react","gatsby","html5","css3","github actions"]},"people":[{"name":"Niklas Buhl","role":"Designer & Developer"}]}}},
+    "staticQueryHashes": []}

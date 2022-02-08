@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-the-game-index-mdx",
+    "path": "/the-game/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":false,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["game"],"status":["completed"],"title":"The Game","subtitle":"Random generated labyrinth racing game.","description":"","years":["2014"],"institutions":["aau-cph"],"location":"cph","keywords":{"topics":["game","creative code"],"tools":["processing"]},"people":[{"name":"Niklas Buhl","role":"Designer and Developer"}]}}},
+    "staticQueryHashes": []}

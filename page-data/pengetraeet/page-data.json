@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-pengetraeet-index-mdx",
+    "path": "/pengetraeet/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":false,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["art"],"status":["completed"],"title":"Pengetræet","subtitle":"Technical assistant for the art project by Johanne Aarup","description":"","years":["2018"],"institutions":["nb"],"location":"cph","keywords":{"topics":["art","capitalism"],"tools":["rpi","flask","python","phillips hue"]},"people":[{"name":"Niklas Buhl","role":"Technical Assistant"},{"name":"Johanne Aarup","role":"Artist"}]}}},
+    "staticQueryHashes": []}

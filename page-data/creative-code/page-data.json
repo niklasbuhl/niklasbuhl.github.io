@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-creative-code-index-mdx",
+    "path": "/creative-code/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":true,"tileImage":"./tile-image-01.png","tileTextColorScheme":"neonPurple","types":["creative code"],"status":["active"],"title":"Creative Code","subtitle":"Learning creative code","description":"","years":["2022"],"institutions":["nb"],"location":"cph","keywords":{"topics":["art"],"tools":["processing"]},"people":[{"name":"Niklas Buhl","role":"Creative Coder"}]}}},
+    "staticQueryHashes": []}

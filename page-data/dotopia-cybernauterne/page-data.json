@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-dotopia-cybernauterne-index-mdx",
+    "path": "/dotopia-cybernauterne/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":false,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["community"],"status":["satelite"],"title":"DO:TOPIA / Cybernauterne","subtitle":"Cyber Feministic Hacker Collective","description":"","years":["2017","2018","2019","2020","2021","2022"],"institutions":["cybernauter"],"location":"cph","keywords":{"topics":["iot","cv"],"tools":["rpi","python"]},"people":[{"name":"Niklas Buhl","role":"Founder, Hacktivist, Educator and Creative Coder"},{"name":"Maia Lorentzen","role":"Imaginative"},{"name":"Nynne","role":"Imaginative"},{"name":"Henrik","role":"Imaginative"},{"name":"Aslak","role":"Imaginative"},{"name":"Laura","role":"Imaginative"},{"name":"Julie","role":"Imaginative"},{"name":"Stis","role":"Imaginative"}]}}},
+    "staticQueryHashes": []}

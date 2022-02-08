@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-five-axis-laser-cutter-index-mdx",
+    "path": "/five-axis-laser-cutter/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":true,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["machine"],"status":["active"],"title":"5 Axis Laser Cutter","subtitle":"Open Source Prototyping","description":"A DIY five axis laser cutter project.","years":["2017","2018","2019","2020","2021","2022"],"institutions":["nb","dtu"],"location":"cph","keywords":{"topics":["open source","rapid prototyping","laser cutter"],"tools":["sketchUp","arduino","grbl","steppermotors","ruby"]},"people":[{"name":"Niklas Buhl","role":"Design Engineer and Developer"},{"name":"Jacob Lawaetz","role":"Mechanical Engineer"},{"name":"Jesper Kirial","role":"Developer"},{"name":"Sebastian Fohlmann","role":"Design Engineer"}]}}},
+    "staticQueryHashes": []}

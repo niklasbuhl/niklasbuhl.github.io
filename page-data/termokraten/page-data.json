@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-termokraten-index-mdx",
+    "path": "/termokraten/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":false,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["system"],"status":["completed"],"title":"Termokraten","subtitle":"Democrative indoor climate control.","description":"","years":["2014"],"institutions":["aau-cph"],"location":"cph","keywords":{"topics":["indoor climate","sensor"],"tools":["arduino","wiring c"]},"people":[{"name":"Niklas Buhl","role":"Designer and Developer"},{"name":"Gunnar","role":"Designer and Developer"}]}}},
+    "staticQueryHashes": []}

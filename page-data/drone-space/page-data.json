@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-drone-space-index-mdx",
+    "path": "/drone-space/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":true,"tileImage":"./tile-image-01.png","tileTextColorScheme":"neonPurple","types":["drone"],"status":["completed"],"title":"Drone Space","subtitle":"Autonomous drone with computer vision","description":"","years":["2017"],"institutions":["dtu"],"location":"cph","keywords":{"topics":["drone"],"tools":["openframeworks","c/c++","drone"]},"people":[{"name":"Niklas Buhl","role":"developer"}]}}},
+    "staticQueryHashes": []}

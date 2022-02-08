@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-saving-water-at-rf-index-mdx",
+    "path": "/saving-water-at-rf/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":false,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["system","event"],"status":["completed"],"title":"Saving Water at Roskilde Festival.","subtitle":"Aqubiq X Roskilde Festival powered by DTU Students","description":"","years":["2017"],"institutions":["dtu","aqubiq"],"location":"cph","keywords":{"topics":["iot","sustainability"],"tools":["particle photon","wiring","c/c++"]},"people":[{"name":"Niklas Buhl","role":"Designer & Developer"},{"name":"Josefine Lange Strandgaard","role":"Designer"},{"name":"Peter Nørtoft","role":"Supervisor, Aqubiq CEO"},{"name":"Andreas Vejbæk Mønster","role":"Aqubiq CTO"}]}}},
+    "staticQueryHashes": []}

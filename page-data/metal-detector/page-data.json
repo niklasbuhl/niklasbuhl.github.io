@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-metal-detector-index-mdx",
+    "path": "/metal-detector/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":true,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["research"],"status":["completed"],"title":"Metal Detector","subtitle":"Finding hidden metal in recycled wood","description":"","years":["2016"],"institutions":["dtu compute"],"location":"lyngby","keywords":{"topics":["","penetration testing"],"tools":["fpga","c","zybo"]},"people":[{"name":"Niklas Buhl","role":"Developer"},{"name":"Jesper Kirial","role":"Developer"},{"name":"Taras Karpin","role":"Developer"}]}}},
+    "staticQueryHashes": []}

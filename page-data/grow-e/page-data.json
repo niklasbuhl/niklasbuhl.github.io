@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-grow-e-index-mdx",
+    "path": "/grow-e/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":false,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["system"],"status":["completed"],"title":"GROW-E","subtitle":"Refurbishing a dishwasher machine into a hydroponic kitchen herb growing machine.","description":"","years":["2015"],"institutions":["dtu compute"],"location":"ballerup","keywords":{"topics":["sensors","hydroponics"],"tools":["arduino"]},"people":[{"name":"Niklas Buhl","role":"Developer"},{"name":"Jesper Kirial","role":"Developer"},{"name":"Taras Karpin","role":"Developer"}]}}},
+    "staticQueryHashes": []}

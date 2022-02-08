@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-hacking-rejsekortet-index-mdx",
+    "path": "/hacking-rejsekortet/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":false,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["research"],"status":["completed"],"title":"Hacking Rejsekortet","subtitle":"Penetration testing of Rejsekortet.","description":"","years":["2016"],"institutions":["dtu compute"],"location":"lyngby","keywords":{"topics":["security","penetration testing"],"tools":["android","rfid"]},"people":[{"name":"Niklas Buhl","role":"Developer"},{"name":"Jesper Kirial","role":"Developer"},{"name":"Taras Karpin","role":"Developer"}]}}},
+    "staticQueryHashes": []}

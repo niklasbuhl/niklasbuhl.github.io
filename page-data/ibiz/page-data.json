@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-ibiz-index-mdx",
+    "path": "/ibiz/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":true,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["system","frontend","backend"],"status":["completed"],"title":"IBIZ","subtitle":"Path finding in supermarket with lights in the ceiling","description":"","years":["2018","2019"],"institutions":["idemolab"],"location":"cph","keywords":{"topics":["iot","api"],"tools":["python","adobe xd","raspberry pi","phillips hue","flask","boostrap"]},"people":[{"name":"Niklas Buhl","role":"Designer & Developer"},{"name":"Mikkel Leth Olsen","role":"Supervisor"}]}}},
+    "staticQueryHashes": []}

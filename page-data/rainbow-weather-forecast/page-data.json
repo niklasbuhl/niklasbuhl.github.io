@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-rainbow-weather-forecast-index-mdx",
+    "path": "/rainbow-weather-forecast/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":false,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["system","backend"],"status":["completed"],"title":"Rainbow Forecast","subtitle":"","description":"","years":["2018","2019"],"institutions":["idemolab"],"location":"cph","keywords":{"topics":["iot","api"],"tools":["python","raspberry pi","phillips hue","flask"]},"people":[{"name":"Niklas Buhl","role":"Designer & Developer"}]}}},
+    "staticQueryHashes": []}

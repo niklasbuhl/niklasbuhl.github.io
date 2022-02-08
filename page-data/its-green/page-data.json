@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-its-green-index-mdx",
+    "path": "/its-green/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":true,"tileTextColorScheme":"light","tileImage":"./tile-image-01.png","types":["system","frontend","backend","product"],"status":["completed"],"title":"ITS Green","subtitle":"Intelligent Traffic System","description":"Intelligent traffic system to streamline commuting for bicyclists through light controlled intersections.","years":["2019"],"institutions":["dtu","idemolab"],"location":"cph","keywords":{"topics":["iot","api","ux"],"tools":["python","adobe xd","raspberry pi","phillips hue","particle photon","wiring","c/c++","flask","swift","boostrap"]},"people":[{"name":"Niklas Buhl","role":"Designer & Developer"},{"name":"Sebastian Fohlman","role":"Designer & Developer"},{"name":"Mikkel Leth Olsen","role":"Supervisor"}]}}},
+    "staticQueryHashes": []}

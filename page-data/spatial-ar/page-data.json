@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-content-projects-spatial-ar-index-mdx",
+    "path": "/spatial-ar/",
+    "result": {"pageContext":{"frontmatter":{"score":1,"featured":true,"tileImage":"./tile-image-01.png","tileTextColorScheme":"light","types":["system","research"],"status":["completed"],"title":"Spatial AR","subtitle":"Interaction Design using Spatial AR with a Projector-Vision System","description":"","years":["2017","2018"],"institutions":["tohoku","icd lab","riec"],"location":"japan","keywords":{"topics":["ar","projection","spatial","natural hmi","hmi","computer vision"],"tools":["unity","C#","optitrack camera system","tipron robot"]},"people":[{"name":"Niklas Buhl","role":"Designer"}]}}},
+    "staticQueryHashes": []}
